@@ -29,14 +29,12 @@ It is a console-based **Number Guessing Game** where:
 ---
 
 ## How to Run
-1. Clone this repository:
-  gh repo clone genuineinsaan/CodSoft-Task-1-Number-Guessing-Game.
    
-2. Compile the program:
+1. Compile the program:
    
    javac NumberGuessingGame.java
 
-4. Run the program:
+2. Run the program:
    
    java NumberGuessingGame
 
