@@ -30,8 +30,7 @@ It is a console-based **Number Guessing Game** where:
 
 ## How to Run
 1. Clone this repository:
-   git clone https://github.com/<your-username>/codsoft-task1-numbergame.git
-   cd codsoft-task1-numbergame
+  gh repo clone genuineinsaan/CodSoft-Task-1-Number-Guessing-Game.
    
 2. Compile the program:
    
